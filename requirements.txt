@@ -5,3 +5,4 @@ Pillow
 rapidfuzz
 pyyaml
 numpy
+gunicorn
