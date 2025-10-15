@@ -1,0 +1,10 @@
+paths:
+  oem_db: "oem_db.json"
+
+ocr:
+  whitelist: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_/."
+  use_craft: true
+  craft_model_path: "models/craft_mlt_25k.pth"
+
+matching:
+  threshold: 70

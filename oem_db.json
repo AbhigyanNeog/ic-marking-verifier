@@ -1,0 +1,30 @@
+[
+  {
+    "name": "MEGA328PB-J",
+    "manufacturer": "Atmel",
+    "description": "8-bit AVR Microcontroller with 32KB Flash, 1KB EEPROM, 2KB SRAM, UART, SPI, I2C",
+    "aliases": [
+      "ATMEGA328PB",
+      "ATMEGA328P",
+      "MEGA328PB",
+      "MEGA328P",
+      "ATMEGA328PB U",
+      "ATMEGA 328PB",
+      "ATMEGA 328P"
+    ]
+  },
+  {
+    "name": "INVENSENSE MPU-60SOES D1X514-W1 EL 1139 L",
+    "manufacturer": "Atmel",
+    "description": "8-bit AVR Microcontroller with 32KB Flash, 1KB EEPROM, 2KB SRAM, UART, SPI, I2C",
+    "aliases": [
+      "ATMEGA328PB",
+      "ATMEGA328P",
+      "MEGA328PB",
+      "MEGA328P",
+      "ATMEGA328PB U",
+      "ATMEGA 328PB",
+      "ATMEGA 328P"
+    ]
+  }
+]
