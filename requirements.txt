@@ -7,3 +7,4 @@ Pillow
 rapidfuzz
 pyyaml
 numpy
+torch==2.3.1
