@@ -5,3 +5,7 @@ Pillow
 rapidfuzz
 pyyaml
 numpy
+Flask==2.3.5
+gunicorn==21.2.0
+Flask
+gunicorn
